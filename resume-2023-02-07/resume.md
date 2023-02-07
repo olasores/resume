@@ -8,7 +8,7 @@ Full credit for this template goes to Jake. Original template is in LaTeX here:
 https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs
 
 ------
-
+Cancel changes
 Easily remove personal info by using a variable follow with a second value and "||":
 
 @NAME=Real Name||Hidden Name
@@ -17,13 +17,13 @@ and change @REDACTED to be true
 
 @REDACTED=true
 -->
-@REDACTED=false
-@NAME=Jake Ryan||Hidden Name
-@EMAIL=realemail@gmail.com||fake@email.com
-@PHONE=123-456-7890||123-456-fake
-@LINKEDIN=jake||linkedin.com/in/fake
-@GITHUB=jake||fake
-
+<!-- @REDACTED=false -->
+<!-- @NAME=Jake Ryan||Hidden Name -->
+<!-- @EMAIL=realemail@gmail.com||fake@email.com -->
+<!-- @PHONE=123-456-7890||123-456-fake -->
+<!-- @LINKEDIN=jake||linkedin.com/in/fake -->
+<!-- @GITHUB=jake||fake
+ -->
 # Oyinkansola Olayinka
 
 <div class="section headerInfo">
