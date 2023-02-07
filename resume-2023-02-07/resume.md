@@ -58,10 +58,9 @@ and change @REDACTED to be true
 ### Treasurer <span class="spacer"></span><span class="normal"> Aug. 2022 &ndash; Present </span>
 
 #### National Society of Black Engineers <span class="spacer"></span> Fullerton, CA
-- Overseee somehting 10,000 
-- prepared a budget and expense ledger for funds 
+- Manages financial budget worth of $10,000 
 - Oversees financial planning, and investment of funds for NSBE Organization.
-- Ensures proper documentation of funds and 
+- Ensures proper documentation, daily and reimbursement of funds
 - Handles receipts, disbursement, and protection of funds.
 
 ### ACM Developer <span class="spacer"></span><span class="normal"> Aug. 2022 &ndash; Present </span>
